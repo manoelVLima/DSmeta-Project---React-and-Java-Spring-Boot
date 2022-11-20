@@ -19,6 +19,6 @@ What was used in this project?
 ## How to use the project
 
 1. Clone the repository
-  - Use the command: `git clone git@github.com:manoelVLima/Redux-in-React-Beginner_Project.git` and enter the folder;
-2. Run `npm install` to install dependencies;
-3. Run `npm start` to open the application in your browser.
+  - Use the command: `git clone git@github.com:manoelVLima/DSmeta-Project---React-and-Java-Spring-Boot.git` and enter the folder;
+2. Run `yarn build` to install dependencies;
+3. Run `yarn dev` to open the application in your browser.
